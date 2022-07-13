@@ -9,3 +9,11 @@ wget https://raw.githubusercontent.com/Mollomm1/roblox-auto-installer-for-linux/
 clear
 ./install.sh
 ```
+> tested on
+
+* Ubuntu 22 : ❔
+* Zorin OS 16.1 : ✅
+
+✅ : It's Work Fine
+❔ : Work Sometimes
+❌ : don't work
