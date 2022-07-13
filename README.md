@@ -1,5 +1,5 @@
 #  grapejuice-installer-for-debain-or-ubuntu
-install roblox on *"Ubuntu 20/22"* or *"Debian"* based distros using grapejuice, this also install **winetkg** by itself!
+install roblox on *"Ubuntu"* or *"Debian"* based distros using grapejuice, this also install **winetkg** by itself!
 
 > 📜 Credits
 
@@ -16,7 +16,7 @@ clear
 
 > 💻 Tested On
 
-* Ubuntu 22 : ❔
+* Ubuntu 22.04 : ❔
 * Zorin OS core 16.1 : ✅
 
 # 
