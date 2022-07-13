@@ -17,7 +17,7 @@ clear
 > 💻 Tested On
 
 * Ubuntu 22 : ❔
-* Zorin OS 16.1 : ✅
+* Zorin OS core 16.1 : ✅
 
 # 
 
