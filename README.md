@@ -5,6 +5,8 @@ install roblox on *"Ubuntu"* or *"Debian"* based distros using grapejuice, this 
 
 Thanks to **[grapejuice](https://gitlab.com/brinkervii/grapejuice)** and **[wine](https://www.winehq.org/)**
 
+**Disclamer:** Use [Issues](https://github.com/Mollomm1/grapejuice-installer-for-debain-or-ubuntu/issues) if you have problemes with it, don't use grapejuice discord server please.
+
 > 💾 Install
 
 ```
