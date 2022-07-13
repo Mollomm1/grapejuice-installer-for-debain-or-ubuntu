@@ -1,9 +1,8 @@
 # by @Mollomm1#0001
 # you can do EVERYTHING you want with this.
-echo '-------------------------------------------------------------'
-echo ' Grapejuice auto install for ubuntu 20.04/22.04 based distro '
-echo " this script need be lanch from terminal, else it's wont work"
-echo '-------------------------------------------------------------'
+echo '-------------------------------------------'
+echo ' grapejuice-installer-for-debain-or-ubuntu'
+echo '-------------------------------------------'
 sleep 4
 sudo dpkg --add-architecture i386 
 sudo apt update
@@ -14,7 +13,7 @@ sudo apt update
 sudo apt install -y wine grapejuice p7zip p7zip-full
 grapejuice gui & sleep 5; cd /tmp; wget https://pastebin.com/raw/5SeVb005 -O install.py; python3 install.py
 clear
-echo 'Installation Complete !, you can now run roblox!'
+echo 'Installation Complete !, you can now run Roblox!'
 echo ' '
 echo "[NOTE] If you get : 'your computer’s graphics card is not compatible with Roblox’s minimum system requirement' try enable DXVK 3D3 and select OpenGL as Roblox Render"
 sleep 10
