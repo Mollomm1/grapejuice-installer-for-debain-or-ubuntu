@@ -15,5 +15,7 @@ clear
 * Zorin OS 16.1 : ✅
 
 ✅ : It's Work Fine
+
 ❔ : Work Sometimes
+
 ❌ : don't work
