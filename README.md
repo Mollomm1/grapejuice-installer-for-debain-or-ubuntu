@@ -13,6 +13,7 @@ wget https://raw.githubusercontent.com/Mollomm1/roblox-auto-installer-for-linux/
 clear
 ./install.sh
 ```
+
 > 💻 Tested On
 
 * Ubuntu 22 : ❔
@@ -24,4 +25,4 @@ clear
 
 ❔ : Work Sometimes
 
-❌ : don't work
+❌ : Don't Work
