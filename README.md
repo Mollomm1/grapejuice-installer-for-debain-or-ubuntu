@@ -13,7 +13,7 @@ clear
 
 * Ubuntu 22 : ❔
 * Zorin OS 16.1 : ✅
-
+# 
 ✅ : It's Work Fine
 
 ❔ : Work Sometimes
