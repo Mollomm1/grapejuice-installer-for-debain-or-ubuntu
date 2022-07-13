@@ -1,5 +1,5 @@
 # by @Mollomm1#0001
-# you can do EVERYTHING you want with this sh*t.
+# you can do EVERYTHING you want with this.
 echo '-------------------------------------------------------------'
 echo ' Grapejuice auto install for ubuntu 20.04/22.04 based distro '
 echo " this script need be lanch from terminal, else it's wont work"
