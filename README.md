@@ -1,4 +1,4 @@
-# roblox-auto-installer-for-linux
+#  roblox-installer-for-debain-or-ubuntu
 install roblox on *"ubuntu 20/22"* or *"debian"* based distros using grapejuice, this also install **winetkg** by itself!
 
 > 📜 Credits
