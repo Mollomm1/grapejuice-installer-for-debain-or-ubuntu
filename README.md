@@ -1,5 +1,5 @@
 # roblox-auto-installer-for-linux
-install roblox on ubuntu 20/22 based distros
+install roblox on "ubuntu 20/22" or "debian" based distros
 
 > install
 
