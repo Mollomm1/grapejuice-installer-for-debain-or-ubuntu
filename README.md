@@ -4,7 +4,7 @@ install roblox on ubuntu 20/22 based distros
 > install
 
 `
-sudo apt install wget
+sudo apt install wget\n
 wget https://raw.githubusercontent.com/Mollomm1/roblox-auto-installer-for-linux/main/install.sh
 clear
 ./install.sh
