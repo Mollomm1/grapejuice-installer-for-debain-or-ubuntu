@@ -12,6 +12,7 @@ Thanks to **[grapejuice](https://gitlab.com/brinkervii/grapejuice)** and **[wine
 ```
 sudo apt install wget
 wget https://raw.githubusercontent.com/Mollomm1/roblox-auto-installer-for-linux/main/install.sh
+chmod +x ./install.sh
 clear
 ./install.sh
 ```
